@@ -1,0 +1,17 @@
+### Gradle ###
+.gradle
+/build/
+/target/
+!gradle/wrapper/gradle-wrapper.jar
+/node_modules
+functional-output/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/bin/
+Connection
+愀䀀
